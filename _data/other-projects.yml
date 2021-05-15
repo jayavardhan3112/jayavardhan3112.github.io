@@ -1,0 +1,26 @@
+- name: Deep News Summarization
+  url: https://github.com/jayavardhan3112/deep-news-summarization
+  code: https://github.com/jayavardhan3112/deep-news-summarization
+  description: News summarization using sequence to sequence model with attention in TensorFlow..
+  used:
+    - thing: TensorFlow
+    - thing: Python
+    - thing: Machine Learning
+
+- name: Chat App
+  url: https://github.com/jayavardhan3112/ChatApp
+  code: https://github.com/jayavardhan3112/ChatApp
+  description: A Chat app built using nodejs and express, using sockets
+  used:
+    - thing: NodeJS
+    - thing: Express
+    - thing: Socket.io
+
+- name: ToDo App
+  url: https://github.com/jayavardhan3112/Notes-app
+  code: https://github.com/jayavardhan3112/Notes-app
+  description: A Reminder app with React and Firebase
+  used:
+    - thing: NodeJS
+    - thing: ReactJS
+    - thing: Firebase

@@ -1,0 +1,31 @@
+languages:
+  - item: CSS
+  - item: SQL
+  - item: HTML
+  - item: Golang
+  - item: Python
+  - item: MongoDB
+  - item: JavaScript (ES6, ES7)
+
+frameworks:
+  - item: Node
+  - item: Flask
+  - item: React
+  - item: Django
+  - item: Express
+  - item: Wordpress
+
+tools:
+  - item: Git
+  - item: Redis
+  - item: Nginx
+  - item: Kafka
+  - item: Docker
+  - item: Prisma
+
+other-services:
+  - item: MySQL
+  - item: MongoDB
+  - item: MariaDB
+  - item: Microsoft Azure
+  - item: Amazon Web Services (AWS)
