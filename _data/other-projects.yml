@@ -1,11 +1,30 @@
-- name: Deep News Summarization
-  url: https://github.com/jayavardhan3112/deep-news-summarization
-  code: https://github.com/jayavardhan3112/deep-news-summarization
-  description: News summarization using sequence to sequence model with attention in TensorFlow..
+- name: Food Delivery App
+  url: https://github.com/jayavardhan3112/delivery-app
+  code: https://github.com/jayavardhan3112/delivery-app
+  description: A cross functional Food Delivery App
   used:
-    - thing: TensorFlow
-    - thing: Python
-    - thing: Machine Learning
+    - thing:  React-native
+    - thing: Sanity.io
+    - thing: TailwindCSS
+
+
+- name: Homestays Online Marketplace
+  url: 
+  code: 
+  description: An AirBnb Clone
+  used:
+    - thing:  Ruby on Rails
+    - thing: PostgreSQL
+    - thing: Vercel
+
+- name: Online C2C Marketplace
+  url: 
+  code: 
+  description: An online trade platform like offerup
+  used:
+    - thing: React-native
+    - thing: MongoDB
+    - thing: NodeJS
 
 - name: Chat App
   url: https://github.com/jayavardhan3112/ChatApp
