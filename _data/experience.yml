@@ -1,12 +1,17 @@
+- company: Arizona State University
+  url: https://www.asu.edu
+  time: Dec 2021 - Present
+  position: Software Development Engineer
+
 - company: Reverie Technologies
-  url: http://reverieinc.com/
+  url: https://reverieinc.com/
   time: May 2020 - Jul 2021
-  position: Software Developer (FullStack)
+  position: Senior Software Development Engineer
 
 - company: Truebil
   url: https://www.truebil.com/
   time: May 2019 - Apr 2020
-  position: Software Developer (Backend)
+  position: Software Engineer
 
 - company: Truebil
   url: https://www.truebil.com/
