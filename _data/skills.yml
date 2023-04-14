@@ -4,7 +4,8 @@ languages:
   - item: HTML
   - item: Golang
   - item: Python
-  - item: MongoDB
+  - item: NoSQL
+  - item: TypeScript
   - item: JavaScript (ES6, ES7)
 
 frameworks:
@@ -13,7 +14,15 @@ frameworks:
   - item: React
   - item: Django
   - item: Express
-  - item: Wordpress
+  - item: Flutter
+  - item: React-native
+
+Databases:
+  - item: MySQL
+  - item: PostgreSQL
+  - item: MongoDB
+  - item: GraphQL
+  - item: Cassandra
 
 tools:
   - item: Git
