@@ -22,19 +22,15 @@ Databases:
   - item: PostgreSQL
   - item: MongoDB
   - item: GraphQL
+  - item: MariaDB
   - item: Cassandra
 
-tools:
+other-services:
   - item: Git
   - item: Redis
   - item: Nginx
   - item: Kafka
   - item: Docker
   - item: Prisma
-
-other-services:
-  - item: MySQL
-  - item: MongoDB
-  - item: MariaDB
   - item: Microsoft Azure
   - item: Amazon Web Services (AWS)
